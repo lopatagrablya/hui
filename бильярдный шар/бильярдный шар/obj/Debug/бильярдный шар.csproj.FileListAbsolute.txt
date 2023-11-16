@@ -1,0 +1,20 @@
+C:\Users\Maria\Desktop\Технология программирования\бильярдный шар\бильярдный шар\bin\Debug\бильярдный шар.exe.config
+C:\Users\Maria\Desktop\Технология программирования\бильярдный шар\бильярдный шар\bin\Debug\бильярдный шар.exe
+C:\Users\Maria\Desktop\Технология программирования\бильярдный шар\бильярдный шар\bin\Debug\бильярдный шар.pdb
+C:\Users\Maria\Desktop\Технология программирования\бильярдный шар\бильярдный шар\obj\Debug\бильярдный шар.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Технология программирования\бильярдный шар\бильярдный шар\obj\Debug\бильярдный_шар.Form1.resources
+C:\Users\Maria\Desktop\Технология программирования\бильярдный шар\бильярдный шар\obj\Debug\бильярдный_шар.Properties.Resources.resources
+C:\Users\Maria\Desktop\Технология программирования\бильярдный шар\бильярдный шар\obj\Debug\бильярдный шар.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Технология программирования\бильярдный шар\бильярдный шар\obj\Debug\бильярдный шар.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Технология программирования\бильярдный шар\бильярдный шар\obj\Debug\бильярдный шар.exe
+C:\Users\Maria\Desktop\Технология программирования\бильярдный шар\бильярдный шар\obj\Debug\бильярдный шар.pdb
+C:\Users\Maria\Desktop\Технология программирования\сделанные\бильярдный шар\бильярдный шар\bin\Debug\бильярдный шар.exe.config
+C:\Users\Maria\Desktop\Технология программирования\сделанные\бильярдный шар\бильярдный шар\bin\Debug\бильярдный шар.exe
+C:\Users\Maria\Desktop\Технология программирования\сделанные\бильярдный шар\бильярдный шар\bin\Debug\бильярдный шар.pdb
+C:\Users\Maria\Desktop\Технология программирования\сделанные\бильярдный шар\бильярдный шар\obj\Debug\бильярдный шар.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Технология программирования\сделанные\бильярдный шар\бильярдный шар\obj\Debug\бильярдный_шар.Form1.resources
+C:\Users\Maria\Desktop\Технология программирования\сделанные\бильярдный шар\бильярдный шар\obj\Debug\бильярдный_шар.Properties.Resources.resources
+C:\Users\Maria\Desktop\Технология программирования\сделанные\бильярдный шар\бильярдный шар\obj\Debug\бильярдный шар.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Технология программирования\сделанные\бильярдный шар\бильярдный шар\obj\Debug\бильярдный шар.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Технология программирования\сделанные\бильярдный шар\бильярдный шар\obj\Debug\бильярдный шар.exe
+C:\Users\Maria\Desktop\Технология программирования\сделанные\бильярдный шар\бильярдный шар\obj\Debug\бильярдный шар.pdb
